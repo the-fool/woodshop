@@ -1,0 +1,21 @@
+{
+  "name": "woodshop",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/the-fool/woodshop.git"
+  },
+  "keywords": [
+    "wood"
+  ],
+  "author": "Woodshop",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/the-fool/woodshop/issues"
+  }
+}

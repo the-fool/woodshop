@@ -1,0 +1,5 @@
+Django==1.9.2
+django-bower==5.1.0
+gunicorn==19.4.5
+six==1.10.0
+wheel==0.29.0
